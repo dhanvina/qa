@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726980568475",
+    "project_id": "qaflutter",
+    "storage_bucket": "qaflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726980568475:android:ed62904dfe8802592c6d3e",
+        "android_client_info": {
+          "package_name": "com.example.qa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM4Mzee2Ine6pMAAmxo0rPRY3PddFD_MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
